@@ -1,2 +1,6 @@
 #!/bin/bash
-School is great 
+<<<<
+The school is open!
+=======
+he school is open! 
+>>>>>>> update_script
